@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="SteelHacks 2017.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Ball_Color_Eart.js">
+    <Files>
+      <File FileName="Assets\Ball_Color_Eart.js" Line="1" Column="1" />
+      <File FileName="Assets\Ball_Control.js" Line="1" Column="1" />
+      <File FileName="Assets\Ball_Color_Mer.js" Line="1" Column="1" />
+      <File FileName="Assets\Ball_Color_Ver.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
